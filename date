@@ -1,0 +1,10 @@
+#!/bin/bash
+while :
+do
+clear
+#cat /etc/motd
+date +"%I:%M:%S %p %Z" 
+date +"%a %b %0e %Y"
+#cat motd
+sleep 0.25
+done
